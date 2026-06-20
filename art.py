@@ -5,7 +5,7 @@ logo =   r"""                         __  __                         __
 /___/                                                                   
 """
 
-this is a logo art 
+this is a logo art for number guessing game using python
 
 
 
